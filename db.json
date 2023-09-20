@@ -1,0 +1,276 @@
+{
+  "users": [
+    {
+      "first_name": "laura",
+      "last_name": "laura ",
+      "email": "l@l.com",
+      "password": "9",
+      "id": 1,
+      "sumBtc": "0.05000",
+      "sumUsdt": "363.00000",
+      "sumEth": "1.00000"
+    },
+    {
+      "first_name": "Lucas",
+      "last_name": "Perez",
+      "email": "l@p.com",
+      "password": "1",
+      "id": 2
+    },
+    {
+      "first_name": "noe",
+      "last_name": "coco",
+      "email": "noe@coco.com",
+      "password": "1",
+      "id": 3,
+      "sumBtc": "0.01000",
+      "sumUsdt": "6.00000",
+      "sumEth": "0.00000"
+    }
+  ],
+  "transactions": [
+    {
+      "cryptoCode": "BTC",
+      "quantity": "0.001",
+      "amount": "19.032,56",
+      "date": "21/8/2023, 9:40:52",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 1
+    },
+    {
+      "cryptoCode": "BTC",
+      "quantity": "0.002",
+      "amount": "38.008,179",
+      "date": "21/8/2023, 10:31:52",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 2
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "730",
+      "date": "21/8/2023, 12:42:52",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 3
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "0.5",
+      "amount": "351",
+      "date": "21/8/2023, 12:43:52",
+      "action": "sale",
+      "user_id": 1,
+      "id": 4
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "0.5",
+      "amount": "345",
+      "date": "21/8/2023, 17:24:52",
+      "action": "sale",
+      "user_id": 1,
+      "id": 5
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "720",
+      "date": "21/8/2023, 17:48:52",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 6
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "690",
+      "date": "21/8/2023, 17:50:52",
+      "action": "sale",
+      "user_id": 1,
+      "id": 7
+    },
+    {
+      "cryptoCode": "ETH",
+      "quantity": "1",
+      "amount": "1.204.992",
+      "date": "21/8/2023, 17:52:52",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 8
+    },
+    {
+      "cryptoCode": "ETH",
+      "quantity": "1",
+      "amount": "1.155.060",
+      "date": "21/8/2023, 17:54:52",
+      "action": "sale",
+      "user_id": 1,
+      "id": 9
+    },
+    {
+      "cryptoCode": "BTC",
+      "quantity": "0.003",
+      "amount": "55.581,576",
+      "date": "5/9/2023, 16:03:06",
+      "action": "sale",
+      "user_id": 1,
+      "id": 12
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "3",
+      "amount": "2217",
+      "date": "5/9/2023, 16:08:06",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 13
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "739",
+      "date": "5/9/2023, 16:17:06",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 14
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "-9",
+      "amount": "-6471",
+      "date": "5/9/2023, 16:18:06",
+      "action": "sale",
+      "user_id": 1,
+      "id": 15
+    },
+    {
+      "cryptoCode": "ETH",
+      "quantity": "2",
+      "amount": "2.418.747",
+      "date": "5/9/2023, 16:31:06",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 16
+    },
+    {
+      "cryptoCode": "BTC",
+      "quantity": "0.3",
+      "amount": "5.708.109,966",
+      "date": "5/9/2023, 16:32:06",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 17
+    },
+    {
+      "cryptoCode": "BTC",
+      "quantity": "0.2",
+      "amount": "3.702.418,6",
+      "date": "5/9/2023, 16:32:06",
+      "action": "sale",
+      "user_id": 1,
+      "id": 18
+    },
+    {
+      "cryptoCode": "BTC",
+      "quantity": "0.05",
+      "amount": "925.856,3",
+      "date": "2023-08-31T18:30",
+      "action": "Sale",
+      "user_id": 1,
+      "id": 19
+    },
+    {
+      "cryptoCode": "ETH",
+      "quantity": "1",
+      "amount": "1.177.434,4",
+      "date": "5/9/2023, 16:36:06",
+      "action": "sale",
+      "user_id": 1,
+      "id": 20
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "350",
+      "amount": "254.450",
+      "date": "11/9/2023, 14:53:17",
+      "action": "purchase",
+      "user_id": 1,
+      "id": 21
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "726",
+      "date": "17/9/2023, 13:47:53",
+      "action": "purchase",
+      "user_id": 3,
+      "id": 22
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "726",
+      "date": "17/9/2023, 13:47:53",
+      "action": "purchase",
+      "user_id": 3,
+      "id": 23
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "706",
+      "date": "17/9/2023, 13:55:53",
+      "action": "sale",
+      "user_id": 3,
+      "id": 24
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "3",
+      "amount": "2178",
+      "date": "17/9/2023, 16:05:54",
+      "action": "purchase",
+      "user_id": 3,
+      "id": 25
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "726",
+      "date": "17/9/2023, 19:51:33",
+      "action": "purchase",
+      "user_id": 3,
+      "id": 27
+    },
+    {
+      "cryptoCode": "USDT",
+      "quantity": "1",
+      "amount": "726",
+      "date": "18/9/2023, 7:23:49",
+      "action": "purchase",
+      "user_id": 3,
+      "id": 28
+    },
+    {
+      "cryptoCode": "BTC",
+      "quantity": "0.13",
+      "amount": "232.710.433,62",
+      "date": "18/9/2023, 21:39:49",
+      "action": "purchase",
+      "user_id": 3,
+      "id": 29
+    },
+    {
+      "cryptoCode": "BTC",
+      "quantity": "0.12",
+      "amount": "2.265.821,88",
+      "date": "18/9/2023, 21:53:49",
+      "action": "sale",
+      "user_id": 3,
+      "id": 30
+    }
+  ]
+}
